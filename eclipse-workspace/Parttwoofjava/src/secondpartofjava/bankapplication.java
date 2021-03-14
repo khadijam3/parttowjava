@@ -1,0 +1,10 @@
+package secondpartofjava;
+
+public class bankapplication {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
