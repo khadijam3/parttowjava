@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author rasik
+ *
+ */
+module khaidja {
+}
